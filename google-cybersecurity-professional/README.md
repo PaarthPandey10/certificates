@@ -1,16 +1,32 @@
-# Google Cybersecurity Professional 
+# Google Cybersecurity Professional
 
-This folder consists of the certificates earned during the Google Cybersecurity Professional certificate through Coursera. 
+> Certificates earned from the Google Cybersecurity Professional Certificate on Coursera.
 
-The certificate consists of 9 total courses: 
-1. Foundations of Cybersecurity
-2. Play It Safe: Manage Security Risks
-3. Connect and Protect: Networks and Network Security
-4. Tools of the Trade: Linux and SQL
-5. Assets, Threats, and Vulnerabilities
-6. Sound the Alarm: Detection and Response
-7. Automate Cybersecurity Tasks with Python
-8. Put It to Work: Prepare for Cybersecurity Jobs
-9. Accelerate Your Job Search with AI
+---
 
+## Overview
 
+This certification includes 9 detailed courses covering foundational cybersecurity topics, hands-on labs, and career readiness training.
+
+---
+
+## Key Highlights
+
+- Foundations of Cybersecurity  
+- Security Risks, Network Security, and Detection  
+- Linux, SQL, and Python for Cybersecurity  
+- Preparing for Cybersecurity Jobs
+
+---
+
+## Contact
+
+For any questions or feedback, reach out:  
+**Paarth Pandey**  
+[LinkedIn](https://www.linkedin.com/in/paarth-pandey-13779529b/) | [GitHub](https://github.com/paarthpandey10) | paarthdxb@gmail.com
+
+---
+
+> Author: [Paarth Pandey](https://github.com/paarthpandey10)  
+>  
+> Google Cybersecurity Professional Certificate
