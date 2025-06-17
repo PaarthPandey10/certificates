@@ -1,10 +1,29 @@
 # Simplilearn Skillup Certificates
 
-This folder consists of the certificates earned on completion of courses on Simplilearn Skillup platform during my high school 3rd year. 
+> Certificates from Simplilearn Skillup platform during high school.
 
-The certificates include:
-1. Basics of Ethical Hacking
-2. Introduction to Cybersecurity
-3. Introduction to Ethical Hacking
-4. Introduction to SQL
+---
 
+## Overview
+
+These courses were taken as early explorations in cybersecurity and programming.
+
+---
+
+## Key Highlights
+
+- Basics of Ethical Hacking  
+- Introduction to Cybersecurity  
+- Introduction to Ethical Hacking  
+- Introduction to SQL
+
+---
+
+## Contact
+
+**Paarth Pandey**  
+[LinkedIn](https://www.linkedin.com/in/paarth-pandey-13779529b/) | [GitHub](https://github.com/paarthpandey10) | paarthdxb@gmail.com
+
+---
+
+> Author: [Paarth Pandey](https://github.com/paarthpandey10)
