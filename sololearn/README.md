@@ -1,21 +1,21 @@
-# Simplilearn Skillup Certificates
+# Sololearn Certificates
 
-> Certificates from Simplilearn Skillup platform during high school.
+> Course completion certificates from the Sololearn app.
 
 ---
 
 ## Overview
 
-These courses were taken as early explorations in cybersecurity and programming.
+Sololearn provides beginner to intermediate courses in programming with a mobile-first approach.
 
 ---
 
 ## Key Highlights
 
-- Basics of Ethical Hacking  
-- Introduction to Cybersecurity  
-- Introduction to Ethical Hacking  
-- Introduction to SQL
+- Introduction to Python  
+- Intermediate Python  
+- Introduction to SQL  
+- Intermediate SQL
 
 ---
 
