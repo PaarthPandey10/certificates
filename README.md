@@ -10,7 +10,7 @@
 - [Project Structure](#project-structure)  
 - [Usage / How to Use](#usage--how-to-use)  
 - [Features / Highlights](#features--highlights)  
-- [Technologies Used](#technologies-used)  
+- [Technologies Covered](#technologies-covered)  
 - [Contributing](#contributing)  
 - [License](#license)  
 - [Contact](#contact)
@@ -19,50 +19,68 @@
 
 ## About
 
-This repository showcases my professional achievements in cybersecurity, programming, cloud, and related domains.  
-It demonstrates ongoing learning and commitment to personal development.
+This repository showcases my professional and academic achievements in cybersecurity, programming, cloud, and data science.  
+It includes certificates from globally recognized platforms like Google, EC-Council, Simplilearn, and SoloLearn.
 
 ---
 
 ## Project Structure
+```
 certificates/
 ├── google-cybersecurity-professional/
 │ ├── README.md
-│ └── *.pdf
-├── simplilearn-skillup/
+│ └── course1-foundations-of-cybersecurity.pdf
+├── simplilearn/
 │ ├── README.md
-│ └── *.pdf
-├── sololearn-certificates/
+│ ├── basics-of-ethical-hacking.pdf
+│ ├── introduction-to-cybersecurity.pdf
+│ ├── introduction-to-ethical-hacking.pdf
+│ └── introduction-to-sql.pdf
+├── sololearn/
 │ ├── README.md
-│ └── *.pdf
-
-yaml
-Copy
-Edit
+│ ├── intermediate-python.pdf
+│ ├── intermediate-sql.pdf
+│ ├── introduction-to-python.pdf
+│ └── introduction-to-sql.pdf
+├── ehe-eccouncil.png
+├── freecodecamp-responsive-web-design.png
+├── google-introduction-to-git-and-github.pdf
+├── iitmadas-data-science-ai.jpg
+├── oracle-apex-workshop.pdf
+├── trend-vision-one-xdr-professional.pdf
+├── LICENSE
+└── README.md 
+```
 ---
 
 ## Usage / How to Use
 
-Browse folders for specific categories. Each folder includes certificates and a summary README.
+Browse the folders to view certificates by source or platform.  
+Each folder contains a summary README and the actual certificates in PDF or image format.
 
 ---
 
 ## Features / Highlights
 
-- ✅ Google Cybersecurity Certificate  
-- ✅ AWS Cloud Practitioner (upcoming)
-- ✅ IITM Data Science & AI
-- ✅ Ethical Hacking Essentials (EHE)
-- ✅ SQL, Python, Web Design  
+- ✅ Google Cybersecurity Professional Certificate (Ongoing)  
+- ✅ Ethical Hacking Essentials (EC-Council)  
+- ✅ Foundational courses in Python, SQL, Git, Web Design  
+- ✅ Trend Micro Vision One XDR Certificate  
+- ✅ IIT Madras AI/Data Science Workshop  
+- ✅ Oracle APEX Foundation Certificate  
 
 ---
 
-## Technologies Used
+## Technologies Covered
 
 - Cybersecurity  
-- Cloud Computing  
-- Programming Languages  
-- Web Development
+- Python  
+- SQL  
+- Web Development  
+- Data Science  
+- Cloud Concepts  
+- Ethical Hacking  
+- Git & GitHub  
 
 ---
 
@@ -74,14 +92,17 @@ Not open for contributions.
 
 ## License
 
-Certificates are for personal academic and professional use only.
+This repository is protected under the **Creative Commons Attribution 4.0 International License**.  
+All certificates belong to the author and are displayed here for educational and professional documentation purposes.
 
 ---
 
 ## Contact
 
 **Paarth Pandey**  
-[LinkedIn](https://www.linkedin.com/in/paarth-pandey-13779529b/) | [GitHub](https://github.com/paarthpandey10) | paarthdxb@gmail.com
+[LinkedIn](https://www.linkedin.com/in/paarth-pandey-13779529b/)  
+[GitHub](https://github.com/paarthpandey10)  
+📧 paarthdxb@gmail.com
 
 ---
 
