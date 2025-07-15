@@ -29,7 +29,10 @@ It includes certificates from globally recognized platforms like Google, EC-Coun
 certificates/
 ├── google-cybersecurity-professional/
 │ ├── README.md
-│ └── course1-foundations-of-cybersecurity.pdf
+│ ├── course01-foundations-of-cybersecurity.pdf
+│ ├── course02-play-it-safe-manage-security-risks.pdf
+│ ├── course03-connect-and-protect-networks-network-security.pdf
+│ └── course04-tools-of-the-trade-linux-and-sql.pdf
 ├── simplilearn/
 │ ├── README.md
 │ ├── basics-of-ethical-hacking.pdf
