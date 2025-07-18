@@ -46,6 +46,7 @@ certificates/
 │ ├── intermediate-sql.pdf
 │ ├── introduction-to-python.pdf
 │ └── introduction-to-sql.pdf
+├── aws-cloud-practitioner-essentials.pdf
 ├── ehe-eccouncil.png
 ├── freecodecamp-responsive-web-design.png
 ├── google-introduction-to-git-and-github.pdf
