@@ -32,7 +32,8 @@ certificates/
 │ ├── course01-foundations-of-cybersecurity.pdf
 │ ├── course02-play-it-safe-manage-security-risks.pdf
 │ ├── course03-connect-and-protect-networks-network-security.pdf
-│ └── course04-tools-of-the-trade-linux-and-sql.pdf
+│ ├── course04-tools-of-the-trade-linux-and-sql.pdf
+│ └── course05-assets-threats-vulnerabilities.pdf
 ├── simplilearn/
 │ ├── README.md
 │ ├── basics-of-ethical-hacking.pdf
