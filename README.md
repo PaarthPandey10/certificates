@@ -27,6 +27,10 @@ It includes certificates from globally recognized platforms like Google, EC-Coun
 ## Project Structure
 ```
 certificates/
+├── aws-cloud-practitioner/
+│ ├── README.md
+│ ├── aws-cloud-practitioner-essentials.pdf
+│ └── aws-cloud-practitioner.pdf
 ├── google-cybersecurity-professional/
 │ ├── README.md
 │ ├── course01-foundations-of-cybersecurity.pdf
@@ -46,7 +50,6 @@ certificates/
 │ ├── intermediate-sql.pdf
 │ ├── introduction-to-python.pdf
 │ └── introduction-to-sql.pdf
-├── aws-cloud-practitioner-essentials.pdf
 ├── ehe-eccouncil.png
 ├── freecodecamp-responsive-web-design.png
 ├── google-introduction-to-git-and-github.pdf
