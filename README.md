@@ -20,7 +20,7 @@
 ## About
 
 This repository showcases my professional and academic achievements in cybersecurity, programming, cloud, and data science.  
-It includes certificates from globally recognized platforms like Google, EC-Council, Simplilearn, and SoloLearn.
+It includes certificates from globally recognized platforms like Amazon Web Services, Google, EC-Council, Simplilearn, and SoloLearn.
 
 ---
 
