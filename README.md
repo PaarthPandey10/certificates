@@ -39,7 +39,10 @@ certificates/
 │ ├── course04-tools-of-the-trade-linux-and-sql.pdf
 │ ├── course05-assets-threats-vulnerabilities.pdf
 │ ├── course06-sound-the-alarm-detection-and-response.pdf
-│ └── course07-automate-cybersecurity-tasks-with-python.pdf
+│ ├── course07-automate-cybersecurity-tasks-with-python.pdf
+│ ├── course08-put-it-to-work-prepare-for-cybersecurity-jobs.pdf
+│ ├── course09-accelerate-your-job-search-with-ai.pdf
+│ └── google-cybersecurity-professional.pdf
 ├── simplilearn/
 │ ├── README.md
 │ ├── basics-of-ethical-hacking.pdf
