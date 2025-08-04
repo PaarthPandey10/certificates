@@ -37,7 +37,9 @@ certificates/
 │ ├── course02-play-it-safe-manage-security-risks.pdf
 │ ├── course03-connect-and-protect-networks-network-security.pdf
 │ ├── course04-tools-of-the-trade-linux-and-sql.pdf
-│ └── course05-assets-threats-vulnerabilities.pdf
+│ ├── course05-assets-threats-vulnerabilities.pdf
+│ ├── course06-sound-the-alarm-detection-and-response.pdf
+│ └── course07-automate-cybersecurity-tasks-with-python.pdf
 ├── simplilearn/
 │ ├── README.md
 │ ├── basics-of-ethical-hacking.pdf
